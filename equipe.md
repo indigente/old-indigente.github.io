@@ -60,6 +60,7 @@ Alunos:
 - Aline Duarte Bessa
 - Caio Tiago Oliveira
 - Carlos Eduardo Benevides Bezerra 
+- Cícero Augusto Neves
 - Enoque Brito dos Santos
 - Fernando Medeiros do Nascimento
 - Flávio Medina Araújo
