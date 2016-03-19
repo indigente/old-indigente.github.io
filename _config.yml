@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Indigente
+email: indigente@ufba.br
+description: > # this means to ignore newlines until "baseurl:"
+  Indigente (Interactive Digital Entertainment) é o grupo de pesquisa e
+  desenvolvimento em jogos da Universidade Federal da Bahia (UFBA).
+  Em atividade desde 2004, possui artigos e jogos premiados no SBGAMES.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://indigente.ufba.br" # the base hostname & protocol for your site
+twitter_username: indigenteUFBA
+github_username:  indigente
+facebook_group: indigente
+
+# Build settings
+markdown: kramdown

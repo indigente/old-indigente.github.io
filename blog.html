@@ -1,0 +1,22 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
+<h1 class="page-heading">Blog</h1>
+
+{% for post in site.posts %}
+<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+{{ post.excerpt }}
+
+<p><a href="{{ post.url }}">Leia mais...</a></p>
+
+<hr/>
+<br/>	
+{% endfor %}
+
+
+<p class="rss-subscribe">increva-se <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
