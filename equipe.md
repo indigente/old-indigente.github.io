@@ -77,6 +77,7 @@ Alunos:
 - Rafael de Cerqueira Sanches Saraiva
 - Rodrigo Rocha Gomes e Souza
 - Victor de Morais Cayres
+- Yuri do Val
 
 Colaboradores
 

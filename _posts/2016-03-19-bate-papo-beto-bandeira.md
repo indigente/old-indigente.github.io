@@ -5,9 +5,9 @@ date:   2016-03-19 06:57:40 -0300
 categories: eventos
 ---
 
-No dia 15/03/2016, às 15h, o Indigente recebeu no Instituto de Matemática da UFBA a visita de Beto Bandeira, um dos fundadores do grupo. Atualmente trabalhando como programador na Rockstar North, Beto compartilhou com uma plateia de mais de 50 pessoas a sua trajetória profissional, desde a graduação na UFBA até o emprego na [Rockstar North](http://www.rockstarnorth.com/) (Escócia), passando pelo mestrado na [ENJMIN](http://www.enjmin.fr/) (França) e pela experiência na [Ubisoft](https://www.ubisoft.com/) (França, Espanha).
+No dia 15/03/2016, às 15h, o Indigente recebeu no Instituto de Matemática da UFBA a visita de Beto Bandeira, um dos fundadores do grupo. Atualmente trabalhando como programador na Rockstar North, Beto compartilhou com uma plateia de mais de 50 pessoas a sua experiência profissional, desde a graduação na UFBA até o emprego na [Rockstar North](http://www.rockstarnorth.com/) (Escócia), passando pelo mestrado na [ENJMIN](http://www.enjmin.fr/) (França) e pela experiência na [Ubisoft](https://www.ubisoft.com/) (França, Espanha).
 
-Beto destacou a imporância de sua experiência no Indigente na sua trajetória. Segundo ele, ter publicado [dois artigos](/publicacoes) com o grupo garantiu uma entrada mais tranquila no processo seletivo da ENJMIN, que abriu portas para o emprego na Ubisoft. Sua experiência no desenvolvimento do motor de jogos [InGE](/projetos/inge) e a formação em disciplinas do curso de Ciência da Computação como Sistemas Operacionais, Linguagem de Montagem e Computação Gráfica foram importantes para as entrevistas de emprego.
+Beto destacou a imporância de sua experiência no Indigente na sua trajetória. Segundo ele, ter publicado [dois artigos](/publicacoes) com o grupo garantiu uma entrada mais tranquila no processo seletivo da ENJMIN, que abriu portas para o emprego na Ubisoft. Além disso, sua experiência no desenvolvimento do motor de jogos [InGE](/projetos/inge) e a formação em disciplinas do curso de Ciência da Computação também foram decisivas na sua carreira.
 
 Seguem o cartaz e algumas fotos do evento:
 
