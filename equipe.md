@@ -69,6 +69,7 @@ Alunos:
 - Jailson A. de Brito Jr.
 - Jandson Santos Nunes
 - Laíza Costa Camurugy
+- Leo Jones
 - Ivan Medeiros Monteiro
 - Paulo César de Alencar Gonçalves Filho
 - Philipe Yuri Palmeira Arraes
