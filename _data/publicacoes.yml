@@ -1,9 +1,13 @@
 - title: 'Ludum, uma composição "jogo" - Técnicas de Áudio Dinâmico para Games aplicadas em outro contexto'
   authors: "Tharcísio Vaz Moraes"
   year: 2015
+  abstract: "Ludum, do latim, significa jogo. O presente artigo busca abordar o processo criativo da composição musical Ludum para flauta, violino e violoncelo, da qual aplica conceitos e técnicas retirados do contexto do Áudio Dinâmico para jogos eletrônicos e reproduzindo-os fora deste contexto. Através de uma adaptação musical dos papéis de jogador e interface, foi trazida uma nova experiência de interatividade em sua execução tanto para o compositor, intérpretes (regente e instrumentistas), bem como para os espectadores."
+  event: "SBGames"
 - title: 'Relações de contornos entre elementos sonoros e visuais do jogo Super Mario Bros'
   authors: "Tharcísio Vaz Moraes, Marcos Sampaio"
   year: 2015
+  abstract: "De acordo com Jason Brame 2009, o jogo Super Mario Bros (1985) tem uma das melodias mais conhecidas dos jogos eletrônicos. Esta trilha tem sido objeto de estudo sob a ótica da harmonia, forma e narrativa musicais, mas nenhum desses estudos aborda o aspecto dos contornos melódicos. Este artigo apresenta resultados preliminares de um estudo de relações entre os contornos melódicos da trilha do jogo e seus elementos visuais. O estudo está baseado em operações de direção e oscilação da Teoria de Relações de Contornos Musicais e revela relações entre elementos visuais e contornos melódicos em dez dos 21 fragmentos analisados."
+  event: "SBGames"
 - title: "A load balancing scheme for massively multiplayer online games"
   authors: "Carlos Eduardo Benevides Bezerra"
   year: 2009
@@ -16,12 +20,16 @@
 - title: "Uma abordagem para o desenvolvimento de jogos adaptáveis a diversos controladores"
   authors: "Humberto Bandeira, Rodrigo Rocha Gomes e Souza"
   year: 2007
+  abstract: "Este trabalho apresenta uma abordagem de desenvolvimento de software que facilita o uso de diversos dispositivos de entrada em jogos. O desenvolvedor programa o jogo para um dispositivo hipotético, definido de acordo com as ações do jogo e, a partir daí, mapeia eventos de teclado, mouse etc. em eventos do dispositivo hipotético. Mapeamentos recorrentes podem ser reusados. Com isso é mais fácil adaptar jogos a diversas possibilidades de interação, como gestos de mouse e reconhecimento de voz, e a dispositivos avançados, como luvas de realidade virtual e sistemas de rastreamento."
+  event: "SBGames"
 - title: "Um Framework para o Desenvolvimento de Agentes Cognitivos em Jogos de Primeira Pessoa"
   authors: "Ivan Medeiros Monteiro, Debora A. Santos"
   year: 2007
 - title: "O Desenvolvimento de um Motor Multiplataforma para Jogos 3D"
   authors: "Aline Duarte Bessa, Caio Tiago Oliveira, Carlos Eduardo Benevides Bezerra, Humberto Bandeira, Ivan Medeiros Monteiro, Rodrigo Rocha Gomes e Souza"
   year: 2007
+  abstract: "O desenvolvimento de jogos modernos é uma atividade que requer conhecimentos multidisciplinares, envolvendo diversas áreas da computação, matemática, física e outras ciências. Os motores de jogos visam a suprir grande parte da demanda computacional, integrando diversas técnicas freqüentemente necessárias nos jogos, simplificando muito a criação de um novo. A implementação desses motores, no entanto, é uma tarefa árdua, visto que uma gama muito grande de funções precisa ser desenvolvida de forma integrada. Este artigo apresenta o motor InGE e analisa algumas das dificuldades enfrentadas e decisões tomadas na implementação deste software multiplataforma"
+  event: "SBGames"
 - title: "QoS para Jogos Multijogador em Redes IEEE 802.11"
   authors: "Carlos Eduardo Benevides Bezerra"
   year: 2006
