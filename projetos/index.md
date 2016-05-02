@@ -6,7 +6,8 @@ permalink: /projetos/
 
 Projetos em andamento:
 
-- Teste de arrumação do armário
+- [Teste de arrumação do armário](taa)
+- [Maquete virtual dos campi UFBA](maquete-ufba)
 - MineUFBA
 
 Projetos finalizados ou descontinuados:
