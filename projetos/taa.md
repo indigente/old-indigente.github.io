@@ -6,6 +6,7 @@ title: "Teste de arrumação do armário"
 - Atividade: novembro 2015 - atual
 - Agência financiadora: Recursos próprios
 - Tecnologias: CreateJS, PHP, MySQL
+- Código-fonte: <https://github.com/indigente/labs>
 
 **[Clique aqui para jogar o protótipo do TAA](https://indigente.github.io/labs/taa-adulto)**
 
