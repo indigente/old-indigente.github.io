@@ -7,8 +7,8 @@ title: "Teste de arrumação do armário"
 - Agência financiadora: Recursos próprios
 - Tecnologias: CreateJS, PHP, MySQL
 - Código-fonte: <https://github.com/indigente/labs>
-
-**[Clique aqui para jogar o protótipo do TAA](https://indigente.github.io/labs/taa-adulto)**
+- Slides do Congresso UFBA: <https://goo.gl/uopcWI>
+- Demo jogável: **[Clique aqui para jogar o protótipo do TAA](https://indigente.github.io/labs/taa-adulto)**
 
 A *memória operacional* (ou *memória de trabalho*) é a capacidade que um indivíduo tem de reter informações por curtos períodos. É essa a memória que usamos, por exemplo, ao gravamos temporariamente um número de telefone antes de discá-lo. Uma das componentes dessa memória é a alça visuoespacial, que se refere à habilidade de processar informações sobre a disposição dos objetos no espaço.
 
