@@ -10,7 +10,7 @@ Os eventos abaixo foram organizados pelo Indigente ou por ao menos um dos membro
 
 Realizada simultaneamente em diversas cidades da região nordeste do Brasil, a NorDevs Game Jam é uma [game jam](http://producaodejogos.com/game-jams/) promovida pelo [NorDevs](https://www.facebook.com/nordevs/) (grupo de desenvolvedores de jogos do nordeste) juntamente com coletivos e associações de desenvolvedores de jogos locais. Na Bahia, a iniciativa é coordenada pela [BIND](http://bahiaindiedev.com/), com organização de Filipe Pereira, Rodrigo Rocha e Victor Cardozo. O evento será realizado na [Superintendência de Tecnologia da Informação da UFBA (STI-UFBA)](http://www.sti.ufba.br/) entre os dias 23 e 31 de julho de 2016 (uma parte do evento será online).
 
-Site com informações e inscrição (sede Salvador): <http://goo.gl/forms/2qCcy0UgTtwJWbCU2>
+Site com informações (sede Salvador): <https://goo.gl/Zbonlp>
 
 ## Bate-papo com Beto Bandeira
 
