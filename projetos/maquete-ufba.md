@@ -6,6 +6,9 @@ title: "Maquete virtual dos campi UFBA"
 - Atividade: abril 2016 - atual
 - Agência financiadora: UFBA
 - Tecnologias: Blender, Unity 3D
+- Demo jogável: **[Clique aqui para jogar o protótipo da Maquete UFBA](http://homes.dcc.ufba.br/~apolinario/Maquete%20Virtual%20UFBA%20TU%20-%20WebGL/teste_web_final/)**
+
+
 
 O objetivo deste projeto é a construção de uma maquete virtual dos campi da UFBA, que possibilite aos usuários caminhar ao longo das vias e observar os principais prédios, monumentos, praças e ruas da universidade.
 
@@ -29,4 +32,18 @@ Estagiários:
 - Cainã Brazil Roriz (Engenharia da Computação)
 - Pedro Antonhyonhi Silva Costa (Engenharia da Computação)
 - Rogério Lázaro Andrade França Júnior (Licenciatura em Computação)
+
+## Galeria
+
+![]({{site.baseurl}}/images/maquete2016-decima.jpg)
+
+![]({{site.baseurl}}/images/maquete2016-im.jpg)
+
+![]({{site.baseurl}}/images/maquete2016-overview.jpg)
+
+![]({{site.baseurl}}/images/maquete2016-paf1.jpg)
+
+![]({{site.baseurl}}/images/maquete2016-politecnica.jpg)
+
+![]({{site.baseurl}}/images/maquete2016-praca.jpg)
 
