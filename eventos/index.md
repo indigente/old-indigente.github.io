@@ -6,11 +6,33 @@ permalink: /eventos/
 
 Os eventos abaixo foram organizados pelo Indigente ou por ao menos um dos membros do grupo.
 
+## Coding dojo de programação de jogos
+
+Venha aprender a desenvolver jogos usando a biblioteca Phaser de forma divertida, com uma metodologia mão-na-massa inspirada nas artes marciais japonesas.
+
+- Quando: sexta, 9/12/16, 13:20–16:20
+- Onde: Lab 143 do IM
+- Pré-requisito: saber programar
+
+No coding dojo (lê-se "dojô"), os participantes se alternam em um computador para desenvolver uma ideia de jogo, com um detalhe: cada pessoa tem entre 3 e 5 minutos na frente do teclado para botar a mão na massa e aprender a ferramenta na prática. Ficou com alguma dúvida? É só pedir ajuda aos universitários!
+
+Participantes: Rodrigo Rocha, Enrique Wicks Rivas, Daiane Mascarenhas, Fernanda Barros, João Felipe Melo, Vagner Luís, Lucas Souza, José Roberto Filho, Jeiel Moura, Romualdo Santos, Rafael Brasileiro Pinto, Camila Marques Hammett.
+
+Material: [evento no Facebook](https://www.facebook.com/events/213513839101630/) e [código no GitHub](https://github.com/indigente/labs/tree/gh-pages/dojos).
+
+## Palestra "Indigente: desenvolvimento de jogos na UFBA" na SEMCOMP 2016
+
+Palestra na [Semana da Computação da UFBA (SEMCOMP)](http://semcomp.com.br/), dia 01/12/2016, 15:00.
+
+Resumo: O Interactive Digital Entertainment (Indigente) é um grupo de pesquisa e desenvolvimento de jogos digitais fundado em 2004 por alunos do curso de Ciência da Computação da UFBA. Esta palestra mostra a trajetória do grupo e apresenta tecnologias, desafios e oportunidades para estudantes de computação interessados em desenvolver jogos e realizar pesquisa na área.
+
+Material: [slides](https://speakerdeck.com/rodrigorgs/indigente-desenvolvimento-de-jogos-na-ufba) e [vídeo](https://youtu.be/2XMmvbI6ie8).
+
 ## NorDevs Game Jam
 
-Realizada simultaneamente em diversas cidades da região nordeste do Brasil, a NorDevs Game Jam é uma [game jam](http://producaodejogos.com/game-jams/) promovida pelo [NorDevs](https://www.facebook.com/nordevs/) (grupo de desenvolvedores de jogos do nordeste) juntamente com coletivos e associações de desenvolvedores de jogos locais. Na Bahia, a iniciativa é coordenada pela [BIND](http://bahiaindiedev.com/), com organização de Filipe Pereira, Rodrigo Rocha e Victor Cardozo. O evento será realizado na [Superintendência de Tecnologia da Informação da UFBA (STI-UFBA)](http://www.sti.ufba.br/) entre os dias 23 e 31 de julho de 2016 (uma parte do evento será online).
+Realizada simultaneamente em diversas cidades da região nordeste do Brasil, a NorDevs Game Jam é uma [game jam](http://producaodejogos.com/game-jams/) promovida pelo [NorDevs](https://www.facebook.com/nordevs/) (grupo de desenvolvedores de jogos do nordeste) juntamente com coletivos e associações de desenvolvedores de jogos locais. Na Bahia, a iniciativa é coordenada pela [BIND](http://bahiaindiedev.com/), com organização de Filipe Pereira, Rodrigo Rocha e Victor Cardozo. O evento foi realizado na [Superintendência de Tecnologia da Informação da UFBA (STI-UFBA)](http://www.sti.ufba.br/) entre os dias 23 e 31 de julho de 2016 (uma parte do evento será online).
 
-Site com informações (sede Salvador): <https://goo.gl/Zbonlp>
+Site com os jogos: <http://jams.gamejolt.io/nordevsgamejam2016>
 
 ## Bate-papo com Beto Bandeira
 
