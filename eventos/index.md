@@ -6,19 +6,25 @@ permalink: /eventos/
 
 Os eventos abaixo foram organizados pelo Indigente ou por ao menos um dos membros do grupo.
 
+## FUBAJam (Global Game Jam 2017)
+
+Quarta edição da [Global Game Jam](http://globalgamejam.org/) na Bahia, realizada no Instituto de Matemática, entre os dias 20 e 22 de janeiro de 2017.
+
+Para **mais informações**, visite a [página da FUBAjam 2017]({{site.baseurl}}/fubajam17).
+
 ## Coding dojo de programação de jogos
 
 Venha aprender a desenvolver jogos usando a biblioteca Phaser de forma divertida, com uma metodologia mão-na-massa inspirada nas artes marciais japonesas.
 
-- Quando: sexta, 9/12/16, 13:20–16:20
-- Onde: Lab 143 do IM
-- Pré-requisito: saber programar
-
 No coding dojo (lê-se "dojô"), os participantes se alternam em um computador para desenvolver uma ideia de jogo, com um detalhe: cada pessoa tem entre 3 e 5 minutos na frente do teclado para botar a mão na massa e aprender a ferramenta na prática. Ficou com alguma dúvida? É só pedir ajuda aos universitários!
 
-Participantes: Rodrigo Rocha, Enrique Wicks Rivas, Daiane Mascarenhas, Fernanda Barros, João Felipe Melo, Vagner Luís, Lucas Souza, José Roberto Filho, Jeiel Moura, Romualdo Santos, Rafael Brasileiro Pinto, Camila Marques Hammett.
-
 Material: [evento no Facebook](https://www.facebook.com/events/213513839101630/) e [código no GitHub](https://github.com/indigente/labs/tree/gh-pages/dojos).
+
+Edições:
+
+- 9/12/2016: jogo Sokoban com a biblioteca Phaser
+- 19/12/2016: jogo Asteroids com a biblioteca Phaser
+- 23/12/2016: jogo de plataforma com a biblioteca Phaser
 
 ## Palestra "Indigente: desenvolvimento de jogos na UFBA" na SEMCOMP 2016
 
