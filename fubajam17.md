@@ -15,7 +15,7 @@ Em 2017, a Global Game Jam será de 20 a 22 de janeiro, e a [FUBAjam](http://glo
 
 Em breve.
 
-Taxa de inscrição: (a definir).
+Taxa de inscrição: R$ 30,00.
 
 ## Sobre a sede
 
@@ -32,14 +32,14 @@ Taxa de inscrição: (a definir).
 
 ## Programação
 
-**Dia 1** (sexta-feira)
+**Dia 1**, 20/01 (sexta-feira)
 
 - **17:00**: credenciamento
 - **18:00**: abertura e divulgação do tema
 - **18:30**: formação de grupos e definição dos projetos
 - **22:00**: fechamento da sede
 
-**Dia 2** (sábado)
+**Dia 2**, 21/01 (sábado)
 
 - **08:00**: abertura da sede
 - **11:00**: prazo para criar a conta do usuário e a página do jogo
@@ -48,7 +48,7 @@ Taxa de inscrição: (a definir).
 - **19:00**--**20:00**: pizza!
 - **22:00**: fechamento da sede
 
-**Dia 3** (domingo)
+**Dia 3**, 22/01 (domingo)
 
 - **08:00**: abertura da sede
 - **12:30**--**13:30**: almoço (por conta de cada um)
