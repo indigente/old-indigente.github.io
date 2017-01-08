@@ -68,13 +68,22 @@ Taxa de inscrição: R$ 30,00.
 
 **Onde almoçar**:
 
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d7774.881229805674!2d-38.512951!3d-13.0075895!3m2!1i1024!2i768!4f13.1!2m1!1srestaurants+near+Instituto+de+Biologia+da+UFBA+-+Campus+Ondina%2C+Salvador+-+State+of+Bahia!5e0!3m2!1sen!2sbr!4v1483902428766" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></center>
+
 - Restaurante Universitário, 100m (R$ 2,50 para estudantes da UFBA)
-- Restaurante Kilo de Ondina, 100m. Comida a quilo.
-- Restaurante Vida, 1,0 km. Comida a quilo. Comida comum e natural.
-- Restaurante Maria Bonita, 1,0 km. Comida a quilo. Comida comum e nordestina.
-- Restaurante Stalo, 1,0 km. Comida a quilo.
-- Subway, 1,1 km. Sanduíche.
+- Restaurante Kilo de Ondina, 300m. Comida a quilo.
+- Restaurante Vida, 1,0 km. Comida a quilo.
+- Restaurante Maria Bonita, 1,0 km. Comida a quilo.
+- Stalo Restaurante, 1,1 km. Comida a quilo.
+- Restaurante Siriguela, 1,2 km. Comida a quilo.
+- Restaurante chinês. 1,2 km. Comida a quilo.
+- Subway, 1,3 km. Sanduíche.
+- Pizza Hut, 1,3 km. Pizza.
+- Speed Lanches, 1,4 km. Pizza.
 - diversos restaurantes perto da orla...
+- Sugestões de delivery:
+  - Suan Loun (Barra): yakisoba
+  - Paraíso da Carne do Sol (Amaralina)
 
 **Outros estabelecimentos próximos**:
 
