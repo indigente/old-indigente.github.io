@@ -9,25 +9,24 @@ A [Global Game Jam](http://globalgamejam.org/) (GGJ) é um evento anual que ocor
 
 A [UFBA](https://www.ufba.br/) sediou a Global Game Jam em Salvador em [2014](http://globalgamejam.org/2014/jam-sites/fubajam), [2015](http://globalgamejam.org/2015/jam-sites/global-bind-jam) e [2016](http://globalgamejam.org/2016/jam-sites/global-bind-jam). Esses eventos reuniram programadores, designers, músicos, artistas gráficos e outros entusiastas do desenvolvimento de jogos, que puderam **aprender**, fazer **contatos**, **produzir** e se **divertir** no processo.
 
-Em 2017, a Global Game Jam será de 20 a 22 de janeiro, e a [FUBAjam](http://globalgamejam.org/2017/jam-sites/fubajam) -- sede da Global Game Jam na UFBA -- será no [Instituto de Matemática](https://www.google.com.br/maps/place/Instituto+de+Matem%C3%A1tica+da+UFBA/@-13.0013263,-38.5078619,19.3z/data=!4m5!3m4!1s0x716049fbfc20d8b:0x5a3ed51534624abc!8m2!3d-13.0011694!4d-38.5073858?hl=en) da UFBA, localizado no campus de Ondina.
+Em 2017, a Global Game Jam será de 20 a 22 de janeiro, e a [FUBAjam](http://globalgamejam.org/2017/jam-sites/fubajam) -- sede da Global Game Jam na UFBA -- será no [Instituto de Matemática e Estatística](https://www.google.com.br/maps/place/Instituto+de+Matem%C3%A1tica+da+UFBA/@-13.0013263,-38.5078619,19.3z/data=!4m5!3m4!1s0x716049fbfc20d8b:0x5a3ed51534624abc!8m2!3d-13.0011694!4d-38.5073858?hl=en) da UFBA, localizado no campus de Ondina.
 
 ## Inscrições
 
 Em breve.
-
-Taxa de inscrição: R$ 30,00.
 
 ## Sobre a sede
 
 ![foto da sede]({{site.baseurl}}/images/fubajam-local.jpg)
 
 - **Capacidade**: 20 pessoas
-- **Horário de funcionamento**: das 8:00 às 22:00 (não há espaço para dormir na sede)
+- **Horário de funcionamento**: das 8:00 às 22:00
+  - Quem preferir pode passar a madrugada no local do evento, mas não há infraestrutura adequada para dormir; deve-se trazer saco de dormir, colchão inflável, colchas ou o que for necessário para dormir confortavelmente.
 - **Infraestrutura**:
-  - Espaço de trabalho com ar condicionado, mesas, tomadas, cadeiras confortáveis e armários suspensos
+  - Espaço de trabalho com ar condicionado, mesas, tomadas e cadeiras
   - Auditório com projetor e caixa de som para apresentação dos projetos
-  - Foyer para socialização e coffee break
-  - Rede Wi-Fi aberta em todo o local (e alguns pontos de rede cabeada)
+  - Foyer para socialização e lanche
+  - Rede Wi-Fi aberta em todo o local
   - Cada um deve **trazer seu próprio computador**
 
 ## Programação
@@ -79,8 +78,7 @@ Taxa de inscrição: R$ 30,00.
 - Restaurante chinês. 1,2 km. Comida a quilo.
 - Subway, 1,3 km. Sanduíche.
 - Pizza Hut, 1,3 km. Pizza.
-- Speed Lanches, 1,4 km. Pizza.
-- diversos restaurantes perto da orla...
+- Speed Lanches, 1,4 km.
 - Sugestões de delivery:
   - Suan Loun (Barra): yakisoba
   - Paraíso da Carne do Sol (Amaralina)
