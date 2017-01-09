@@ -35,7 +35,7 @@ Em breve.
 
 - **17:00**: credenciamento
 - **18:00**: abertura e divulgação do tema
-- **18:30**: formação de grupos e definição dos projetos
+- **18:30**: formação de grupos, lanche e definição dos projetos
 - **22:00**: fechamento da sede
 
 **Dia 2**, 21/01 (sábado)
@@ -43,6 +43,7 @@ Em breve.
 - **08:00**: abertura da sede
 - **11:00**: prazo para criar a conta do usuário e a página do jogo
 - **12:30**--**13:30**: almoço (por conta de cada um)
+- **16:00**: lanche
 - **18:00**--**19:00**: playtesting dos jogos dos outros
 - **19:00**--**20:00**: pizza!
 - **22:00**: fechamento da sede
