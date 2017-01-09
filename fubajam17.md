@@ -21,7 +21,7 @@ Em breve.
 
 - **Capacidade**: 20 pessoas
 - **Horário de funcionamento**: das 8:00 às 22:00
-  - Quem preferir pode passar a madrugada no local do evento, mas não há infraestrutura adequada para dormir; deve-se trazer saco de dormir, colchão inflável, colchas ou o que for necessário para dormir confortavelmente.
+  - Quem preferir pode passar a madrugada no local do evento, mas não há infraestrutura adequada para dormir; deve-se trazer comida para passar a noite e saco de dormir, colchão inflável, colchas ou o que for necessário para dormir confortavelmente.
 - **Infraestrutura**:
   - Espaço de trabalho com ar condicionado, mesas, tomadas e cadeiras
   - Auditório com projetor e caixa de som para apresentação dos projetos
