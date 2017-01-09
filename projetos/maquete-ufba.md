@@ -6,8 +6,7 @@ title: "Maquete virtual dos campi UFBA"
 - Atividade: abril 2016 - atual
 - Agência financiadora: UFBA
 - Tecnologias: Blender, Unity 3D
-- Demo jogável: **[Clique aqui para jogar o protótipo da Maquete UFBA](http://homes.dcc.ufba.br/~apolinario/Maquete%20Virtual%20UFBA%20TU%20-%20WebGL/teste_web_final/)**
-
+- Demo jogável: **[Clique aqui para jogar o protótipo da Maquete UFBA](http://maquete.ufba.br/)**
 
 
 O objetivo deste projeto é a construção de uma maquete virtual dos campi da UFBA, que possibilite aos usuários caminhar ao longo das vias e observar os principais prédios, monumentos, praças e ruas da universidade.
