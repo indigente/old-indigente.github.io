@@ -26,6 +26,7 @@ Em breve.
   - Espaço de trabalho com ar condicionado, mesas, tomadas e cadeiras
   - Auditório com projetor e caixa de som para apresentação dos projetos
   - Foyer para socialização e lanche
+  - Banheiros e vestiários com chuveiro
   - Rede Wi-Fi aberta em todo o local
   - Cada um deve **trazer seu próprio computador**
 
