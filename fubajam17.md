@@ -89,3 +89,24 @@ Em breve.
 
 - Padaria: 800 m.
 - Farmácia: 800 m.
+
+------------
+
+<div style="text-align: center; padding-top: 20px;">
+
+<p><strong>Realização</strong></p>
+
+<p>
+<a style="padding-right: 20px;" href="http://indigente.ufba.br/"><img src="{{site.baseurl}}/images/logo-indigente.png" width="133" height="130" /></a>
+<a style="padding-right: 20px;" href="http://www.dcc.ufba.br/"><img src="{{site.baseurl}}/images/logo-dcc.png" width="79" height="130" /></a>
+<a style="padding-right: 20px;" href="http://www.im.ufba.br/"><img src="{{site.baseurl}}/images/logo-ime.gif" width="84" height="80" /></a>
+<a style="padding-right: 20px;" href="http://www.ufba.br/"><img src="{{site.baseurl}}/images/logo-ufba.png" width="84" height="130" /></a>
+</p>
+
+<p><strong>Apoio</strong></p>
+
+<p>
+<a style="padding-right: 20px;" href="https://sti.ufba.br/"><img src="{{site.baseurl}}/images/logo-sti.png" width="132" height="60" /></a>
+</p>
+
+</div>
