@@ -13,13 +13,13 @@ Em 2017, a Global Game Jam será de 20 a 22 de janeiro, e a [FUBAjam](http://glo
 
 ## Inscrições
 
-Em breve.
+Formulário de inscrição em <https://goo.gl/XqdBXp>.
 
 ## Sobre a sede
 
 ![foto da sede]({{site.baseurl}}/images/fubajam-local.jpg)
 
-- **Capacidade**: 20 pessoas
+- **Capacidade**: 34 pessoas
 - **Horário de funcionamento**: das 8:00 às 22:00
   - Quem preferir pode passar a madrugada no local do evento, mas não há infraestrutura adequada para dormir; deve-se trazer comida para passar a noite e saco de dormir, colchão inflável, colchas ou o que for necessário para dormir confortavelmente.
 - **Infraestrutura**:
@@ -107,6 +107,7 @@ Em breve.
 
 <p>
 <a style="padding-right: 20px;" href="https://sti.ufba.br/"><img src="{{site.baseurl}}/images/logo-sti.png" width="132" height="60" /></a>
+<a style="padding-right: 20px;" href="https://www.facebook.com/bahiaindiedev/"><img src="{{site.baseurl}}/images/logo-bind.png" width="130" height="86" /></a>
 </p>
 
 </div>
