@@ -13,7 +13,7 @@ Em 2017, a Global Game Jam será de 20 a 22 de janeiro, e a [FUBAjam](http://glo
 
 ## Inscrições
 
-Formulário de inscrição em <https://goo.gl/XqdBXp>.
+Inscrições encerradas.
 
 ## Sobre a sede
 
