@@ -24,6 +24,7 @@ Inscrições encerradas.
   - Quem preferir pode passar a madrugada no local do evento, mas não há infraestrutura adequada para dormir; deve-se trazer comida para passar a noite e saco de dormir, colchão inflável, colchas ou o que for necessário para dormir confortavelmente.
 - **Infraestrutura**:
   - Espaço de trabalho com ar condicionado, mesas, tomadas e cadeiras
+    - Todas as tomadas estão no padrão brasileiro de três pinos. **Traga adaptadores** se necessário!
   - Auditório com projetor e caixa de som para apresentação dos projetos
   - Foyer para socialização e lanche
   - Banheiros e vestiários com chuveiro
