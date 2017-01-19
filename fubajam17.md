@@ -11,6 +11,12 @@ A [UFBA](https://www.ufba.br/) sediou a Global Game Jam em Salvador em [2014](ht
 
 Em 2017, a Global Game Jam será de 20 a 22 de janeiro, e a [FUBAjam](http://globalgamejam.org/2017/jam-sites/fubajam) -- sede da Global Game Jam na UFBA -- será no [Instituto de Matemática e Estatística](https://www.google.com.br/maps/place/Instituto+de+Matem%C3%A1tica+da+UFBA/@-13.0013263,-38.5078619,19.3z/data=!4m5!3m4!1s0x716049fbfc20d8b:0x5a3ed51534624abc!8m2!3d-13.0011694!4d-38.5073858?hl=en) da UFBA, localizado no campus de Ondina.
 
+## Local
+
+Instituto de Matemática e Estatística da UFBA, campus de Ondina da UFBA, na Avenida Adhemar de Barros. Área da pós-graduação, térreo.
+
+Na dúvida, veja [como chegar ao Instituto de Matemática e Estatística da UFBA]({{site.baseurl}}/ime-localizacao).
+
 ## Inscrições
 
 Inscrições encerradas.
