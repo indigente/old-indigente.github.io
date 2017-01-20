@@ -13,7 +13,7 @@ Em 2017, a Global Game Jam será de 20 a 22 de janeiro, e a [FUBAjam](http://glo
 
 ## Local
 
-Instituto de Matemática e Estatística da UFBA, campus de Ondina da UFBA, na Avenida Adhemar de Barros. Área da pós-graduação, térreo.
+Instituto de Matemática e Estatística da UFBA, campus de Ondina da UFBA, na Avenida Adhemar de Barros. Área da pós-graduação, térreo, salas 12, 13, 14 e 15.
 
 Na dúvida, veja [como chegar ao Instituto de Matemática e Estatística da UFBA]({{site.baseurl}}/ime-localizacao).
 
