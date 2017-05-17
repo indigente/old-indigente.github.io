@@ -6,6 +6,13 @@ permalink: /eventos/
 
 Os eventos abaixo foram organizados pelo Indigente ou por ao menos um dos membros do grupo.
 
+## Bate-papo com João Pereira
+
+No dia **16/05/2017**, às **15h**, recebemos a visita de João Pereira, artista técnico no estúdio de jogos francês [Sloclap](http://www.sloclap.com/), para um bate-papo informal sobre desenvolvimento de jogos, no **Auditório 02** do **PAF V** da UFBA, no Campus de Ondina.
+
+Site: <http://indigente.github.io/eventos/2017/05/16/bate-papo-joao-pereira.html>
+
+
 ## FUBAJam (Global Game Jam 2017)
 
 Quarta edição da [Global Game Jam](http://globalgamejam.org/) na Bahia, realizada no Instituto de Matemática, entre os dias 20 e 22 de janeiro de 2017.
