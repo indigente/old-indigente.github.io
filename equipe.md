@@ -4,57 +4,40 @@ title: Equipe
 permalink: /equipe
 ---
 
-## Coordenação
-
-- Rodrigo Rocha Gomes e Souza (professor do Departamento de Ciência da Computação, UFBA)
-- Tharcísio Vaz da Costa de Moraes (mestrando em Composicão na Escola de Música, UFBA)
-
-## Participantes frequentes
-
-- Anderson Sampaio
-- Antonio Santana
-- Bruno B. de Souza
-- Daiane Mascarenhas
-- Gabriel Ferreira
-- Philippe Correia
-- Rogério Lázaro Júnior
-- Saulo Andrade
-
-## Participantes eventuais
-
-Com contribuições técnicas significativas:
-
-- Diego Zabot
-- Marcos Mass
-
-Com contribuições em discussão:
-
-- Allan Thales
-- Edely Gomes
-- Fernando Medeiros Do Nascimento
-- Igor Paim
-- João Felipe Melo
-- Juliana Oliveira
-- Júlio Machado
-- Leonardo Araújo
-- Maurício Pamplona
-- Simone Neres
-- Tadeu Costa
-- Victor Santos
+O Indigente é coordenado pelo professor [Rodrigo Rocha](http://wiki.dcc.ufba.br/DCC/ProfRodrigoRocha) do Departamento de Ciência da Computação.
 
 ## Hall da fama
 
-Essas são algumas pessoas que fizeram história no Indigente.
+Essas são algumas pessoas que fizeram parte da história do Indigente.
 
 Professores:
 
 - Dr. Adolfo Almeida Duran
+- Dr. Antonio Lopes Apolinario Junior 
 - Dra. Christina von Flach
 - Dra. Cláudia Amado Gama
 - Dra. Debora A. Santos
 - Dra. Vaninha Vieira dos Santos
 
-Alunos:
+Colaboradores
+
+- Adriano Anunciação Oliveira
+- Arivaldo Leão de Amorim
+- Bruno Cupertino de Jesus
+- Cíntia Mercês Souza
+- Dilton Oliveira de Araújo
+- Elderlan de Jesus Pita Souza
+- Felipe Victor Filgueiras
+- Fernando Alves Schiffler Pinto
+- João Pereira Lemos Costa
+- Marcelo Matos de Oliveira
+- Marilene da Cruz Macedo
+- Rosara Durval Valente Lopes
+- Suelen Santos Nunes
+- Teresinha Fróes Burnham
+- Victor Maciel Guimarães dos Santos
+
+Alunos (mais antigos):
 
 - Alexandre Amoedo Amorim
 - Aline Duarte Bessa
@@ -79,21 +62,30 @@ Alunos:
 - Victor de Morais Cayres
 - Yuri do Val
 
-Colaboradores
+Alunos (mais recentes):
 
-- Adriano Anunciação Oliveira
-- Arivaldo Leão de Amorim
-- Bruno Cupertino de Jesus
-- Cíntia Mercês Souza
-- Dilton Oliveira de Araújo
-- Elderlan de Jesus Pita Souza
-- Felipe Victor Filgueiras
-- Fernando Alves Schiffler Pinto
-- João Pereira Lemos Costa
-- Marcelo Matos de Oliveira
-- Marilene da Cruz Macedo
-- Rosara Durval Valente Lopes
-- Suelen Santos Nunes
-- Teresinha Fróes Burnham
-- Victor Maciel Guimarães dos Santos
+- Allan Thales
+- Aléxia Corujas
+- Anderson Sampaio
+- Antonio Santana
+- Bruno B. de Souza
+- Daiane Mascarenhas
+- Diego Zabot
+- Edely Gomes
+- Fernando Medeiros do Nascimento
+- Gabriel Ferreira
+- Igor Paim
+- João Felipe Melo
+- Juliana Oliveira
+- Júlio Machado
+- Leonardo Araújo
+- Marcos Antônio de Souza Silva
+- Maurício Pamplona
+- Philippe Correia
+- Rogério Lázaro Júnior
+- Saulo Andrade
+- Simone Neres
+- Tadeu Costa
+- Tharcísio Vaz da Costa de Moraes
+- Victor Santos
 
