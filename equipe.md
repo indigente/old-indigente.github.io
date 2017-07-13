@@ -62,7 +62,7 @@ Alunos (mais antigos):
 - Victor de Morais Cayres
 - Yuri do Val
 
-Alunos (mais recentes):
+Alunos, professores e colaboradores (mais recentes):
 
 - Allan Thales
 - Aléxia Corujas
