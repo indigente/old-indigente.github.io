@@ -6,12 +6,14 @@ permalink: /projetos/
 
 Projetos em andamento:
 
+- Projeto secreto (2017–, ainda em fase inicial!)
+- [Maquete virtual dos campi UFBA](maquete-ufba) (2016–)
+
+<!-- - MineUFBA -->
+
+Projetos finalizados:
+
 - [Teste de arrumação do armário](taa)
-- [Maquete virtual dos campi UFBA](maquete-ufba)
-- MineUFBA
-
-Projetos finalizados ou descontinuados:
-
 - [InGE: Indigente Game Engine](inge)
 - [We Are The Champignons (WATC)](watc)
 - [AirroX](airrox)
