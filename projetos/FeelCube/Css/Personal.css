@@ -1,0 +1,113 @@
+@keyframes runBigger {
+    0% {background-color: #60646D; right: -64px;}
+    20% {background-color: #60646D; right: 80%;}
+    20.0001% {background-color: #F22613; right: -64px;}
+    40% {background-color: #F22613; right: 80%;}
+    40.0001% {background-color: #92F22A; right: -64px;}
+    60% {background-color: #92F22A; right: 80%;}
+    60.0001% {background-color: #BB3658; right: -64px;}
+    80% {background-color: #BB3658; right: 80%;}
+    80.0001% {background-color: #E67E22; right: -64px;}
+    100% {background-color: #E67E22; right: 80%;}
+}
+
+@keyframes runSmaller {
+    0% {background-color: #1BBC9B; right: -32px;}
+    20% {background-color: #1BBC9B; right: 80%;}
+    20.0001% {background-color: #E67E22; right: -32px;}
+    40% {background-color: #E67E22; right: 80%;}
+    40.0001% {background-color: #BDC3C7; right: -32px;}
+    60% {background-color: #BDC3C7; right: 80%;}
+    60.0001% {background-color: #EBBD63; right: -32px;}
+    80% {background-color: #EBBD63; right: 80%;}
+    80.0001% {background-color: #92F22A; right: -32px;}
+    100% {background-color: #92F22A; right: 80%;}
+}
+
+@keyframes emotion {
+    0% {background-image: url("../Assets/Expression/Normal.svg");}
+    20% {background-image: url("../Assets/Expression/Normal.svg");}
+    20.0001% {background-image: url("../Assets/Expression/Raiva.svg");}
+    40% {background-image: url("../Assets/Expression/Raiva.svg");}
+    40.0001% {background-image: url("../Assets/Expression/Sono.svg");}
+    60% {background-image: url("../Assets/Expression/Sono.svg");}
+    60.001% {background-image: url("../Assets/Expression/Happy.svg");}
+    80% {background-image: url("../Assets/Expression/Happy.svg");}
+    80.0001% {background-image: url("../Assets/Expression/Tedio.svg");}
+    100% {background-image: url("../Assets/Expression/Tedio.svg");}
+}
+
+@keyframes filter {
+    0% {filter:none;}
+    20% {filter: none;}
+    20.0001% {filter:hue-rotate(150deg);}
+    40% {filter:hue-rotate(150deg);}
+    40.0001% {filter:blur(1px) brightness(50%);}
+    60% {filter:blur(1px) brightness(50%);}
+    60.001% {filter:brightness(150%);}
+    80% {filter:brightness(150%);}
+    80.0001% {filter:grayscale(100%);}
+    100% {filter:grayscale(100%);}
+}
+
+body {
+    animation-name: filter;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+div.Animation {
+    position: relative;
+    left: 5%;
+    filter: none;
+    animation-name: emotion;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;    
+    background-repeat: no-repeat;
+}
+
+div.Squad {
+        position: absolute;
+        border-radius: 10px;        
+}
+
+@media screen and (min-width: 780px) {
+
+    div.Animation {
+        filter: none;
+        height: 256px;
+        width: 256px;
+        background-size: 256px 256px;
+    }
+
+    div.Squad {
+        width: 64px;
+        height: 64px;
+        right: -64px;
+        animation-name: runBigger;
+        animation-duration: 10s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+    }
+}
+
+@media screen and (max-width: 780px) {
+	div.Animation {
+        filter: none;
+        height: 128px;
+        width: 128px;
+        background-size: 128px 128px;
+    }
+
+    div.Squad {
+        width: 32px;
+        height: 32px;
+        right: -32px;
+        animation-name: runSmaller;
+        animation-duration: 10s;
+        animation-timing-function: linear;
+        animation-iteration-count: infinite;
+    }
+}
