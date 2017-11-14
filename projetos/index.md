@@ -6,7 +6,6 @@ permalink: /projetos/
 
 Projetos em andamento:
 
-- Projeto secreto (2017–, ainda em fase inicial!)
 - [Maquete virtual dos campi UFBA](maquete-ufba) (2016–)
 
 <!-- - MineUFBA -->
