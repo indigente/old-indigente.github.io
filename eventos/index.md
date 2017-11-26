@@ -6,6 +6,10 @@ permalink: /eventos/
 
 Os eventos abaixo foram organizados pelo Indigente ou por ao menos um dos membros do grupo.
 
+## Minicursos de Unity e Phaser na SEMCOMP
+
+No dia 24/11/2017, das 8:00 às 12:00, ocorreram na [SEMCOMP](https://semcomp.com.br/) os minicursos [Aprenda a fazer jogos com Unity e C#](https://docs.google.com/presentation/d/1s3OPBvM3IpTpHydZnckVXRugmK_geyEnJ7Tbbdr5wi0/edit), ministrado por Felipe Nunes, e [Introdução à programação de jogos digitais com software livre (JavaScript + Phaser)](https://docs.google.com/presentation/d/1VVGLwmCX-ORXIleasBzlo_qp2xvdngYe_yMjub9KeXk/edit), ministrado por Diego Zabot.
+
 ## Bate-papo com João Pereira
 
 No dia **16/05/2017**, às **15h**, recebemos a visita de João Pereira, artista técnico no estúdio de jogos francês [Sloclap](http://www.sloclap.com/), para um bate-papo informal sobre desenvolvimento de jogos, no **Auditório 02** do **PAF V** da UFBA, no Campus de Ondina.
