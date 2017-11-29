@@ -6,6 +6,14 @@ permalink: /eventos/
 
 Os eventos abaixo foram organizados pelo Indigente ou por ao menos um dos membros do grupo.
 
+## FUBAjam (Global Game Jam 2018)
+
+Quinta edição da Global Game Jam na Bahia.
+
+- Onde: PAF V, campus de Ondina da UFBA
+- Quando: de 26 a 28 de janeiro de 2018
+- Mais informações: visite a página da [FUBAjam18]({{site.baseurl}}/FUBAjam18)
+
 ## Minicursos de Unity e Phaser na SEMCOMP
 
 No dia 24/11/2017, das 8:00 às 12:00, ocorreram na [SEMCOMP](https://semcomp.com.br/) os minicursos [Aprenda a fazer jogos com Unity e C#](https://docs.google.com/presentation/d/1s3OPBvM3IpTpHydZnckVXRugmK_geyEnJ7Tbbdr5wi0/edit), ministrado por Felipe Nunes, e [Introdução à programação de jogos digitais com software livre (JavaScript + Phaser)](https://docs.google.com/presentation/d/1VVGLwmCX-ORXIleasBzlo_qp2xvdngYe_yMjub9KeXk/edit), ministrado por Diego Zabot.
