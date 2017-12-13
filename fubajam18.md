@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "FUBAjam18 (Global Game Jam)"
+title: "FUBAjam18 (Global Game Jam) - 26 a 28 de janeiro"
 ---
 
 ![Logo da FUBAjam]({{site.baseurl}}/images/fubajam.png)
@@ -9,15 +9,15 @@ A [Global Game Jam](http://globalgamejam.org/) (GGJ) é uma maratona de **criaç
 
 A ideia é desenvolver distintas habilidades, bem como promover práticas colaborativas, cooperativas e inventivas, motivando os participantes a experimentar novas técnicas e práticas, fortalecendo a indústria de games nos seus territórios.
 
-A [UFBA](https://www.ufba.br/) sediou a Global Game Jam em Salvador em [2014](http://globalgamejam.org/2014/jam-sites/fubajam), [2015](http://globalgamejam.org/2015/jam-sites/global-bind-jam), [2016](http://globalgamejam.org/2016/jam-sites/global-bind-jam) e [2017](http://globalgamejam.org/2017/jam-sites/fubajam). Em 2018, a Global Game Jam será de **26 a 28 de janeiro**, e a [FUBAjam](http://globalgamejam.org/2018/jam-sites/fubajam) -- sede da Global Game Jam na UFBA -- será no campus de Ondina da UFBA, no PAF V.
+A [UFBA](https://www.ufba.br/) sediou a Global Game Jam em Salvador em [2014](http://globalgamejam.org/2014/jam-sites/fubajam), [2015](http://globalgamejam.org/2015/jam-sites/global-bind-jam), [2016](http://globalgamejam.org/2016/jam-sites/global-bind-jam) e [2017](http://globalgamejam.org/2017/jam-sites/fubajam). Em 2018, a Global Game Jam será de **26 a 28 de janeiro**, e a [FUBAjam](http://globalgamejam.org/2018/jam-sites/fubajam) -- sede da Global Game Jam na UFBA -- será no campus de Ondina da UFBA, no PAF V (a confirmar).
 
 ## Local
 
-PAF V, campus de Ondina da UFBA, na Avenida Adhemar de Barros. Mais detalhes em breve.
+PAF V, campus de Ondina da UFBA, na Avenida Adhemar de Barros (A CONFIRMAR!).
 
 ## Inscrições
 
-As inscrições ainda não foram abertas.
+Acesse o [formulário de pré-inscrição](https://goo.gl/forms/p0980GRjt4Q7jytI2).
 
 ## Sobre a sede
 
@@ -40,8 +40,8 @@ As inscrições ainda não foram abertas.
 
 **Dia 1**, 26/01 (sexta-feira)
 
-- **17:00**: credenciamento
-- **18:00**: abertura e divulgação do tema
+- **17:00**: credenciamento e abertura
+- **18:00**: divulgação do tema
 - **18:30**: formação de grupos e definição dos projetos
 
 **Dia 2**, 27/01 (sábado)
@@ -62,6 +62,7 @@ As inscrições ainda não foram abertas.
 - **Obrigatório**: documento de identidade com foto
 - Computador e outros equipamentos que você for usar (controlador MIDI, mesa digitalizadora etc.)
 - Extensões elétricas e adaptadores
+- Dinheiro
 - Squeeze ou garrafa para beber água
 - Lanches (prefira alimentos saudáveis)
 - Roupas leves (mas também roupa para aguentar o ar condicionado)
@@ -81,13 +82,21 @@ As inscrições ainda não foram abertas.
 - Pizza Hut, 1,3 km. Pizza.
 - Speed Lanches, 1,4 km.
 - Sugestões de delivery:
-  - Suan Loun (Barra): yakisoba
-  - Paraíso da Carne do Sol (Amaralina)
+  - Suan Loun (Barra): yakisoba. (71) 3332-2222
+  <!-- - Paraíso da Carne do Sol (Amaralina) -->
 
 **Outros estabelecimentos próximos**:
 
 - Padaria: 800 m.
 - Farmácia: 800 m.
+
+# Equipe
+
+Coordenação:
+
+- Rodrigo Rocha, rodrigorgs@ufba.br
+- Lynn Alves
+- Isa Neves
 
 ------------
 
