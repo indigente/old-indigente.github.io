@@ -12,7 +12,7 @@ Quinta edição da Global Game Jam na Bahia.
 
 - Onde: PAF V, campus de Ondina da UFBA
 - Quando: de 26 a 28 de janeiro de 2018
-- Mais informações: visite a página da [FUBAjam18]({{site.baseurl}}/FUBAjam18)
+- Mais informações: visite a página da [FUBAjam18]({{site.baseurl}}/fubajam18)
 
 ## Minicursos de Unity e Phaser na SEMCOMP
 
