@@ -3,7 +3,7 @@ layout: page
 title: "FUBAjam18 (Global Game Jam) - 26 a 28 de janeiro"
 ---
 
-![Logo da FUBAjam]({{site.baseurl}}/images/capa-face-fabajam-2018.png)
+![Logo da FUBAjam]({{site.baseurl}}/images/capa-face-fubajam-2018.png)
 
 A [Global Game Jam](http://globalgamejam.org/) (GGJ) é uma maratona de **criação de jogos em 48 horas** que ocorre simultaneamente em mais de 70 países. O evento reúne pessoas com distintas expertises interessadas no desenvolvimento de games, como programadores, designers, músicos e roteiristas, que são desafiadas a produzir um jogo durante um final de semana a partir de um **tema secreto** revelado no início do evento. Ao final do evento, no domingo, os jogos [são publicados no site da Global Game Jam](http://globalgamejam.org/games).
 
