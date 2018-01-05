@@ -119,6 +119,8 @@ Coordenação:
 
 <a style="padding-right: 20px;" href="http://produtosmagrela.com.br/"><img src="{{site.baseurl}}/images/logo-magrela.png" height="100" alt="Produtos Magrela" /></a>
 <a style="padding-right: 20px;" href="http://escolabrasileiradegames.com.br/"><img src="{{site.baseurl}}/images/logo-escola-bras-games.png" height="100" alt="Escola Brasileira de Games" /></a>
+<a style="padding-right: 20px;" href="http://studiovaz.com.br/"><img src="{{site.baseurl}}/images/logo-studiovaz.png" height="80" alt="Studio Vaz" /></a>
+<a style="padding-right: 20px;" href="https://www.youtube.com/watch?v=klSgyjiKaqU"><img src="{{site.baseurl}}/images/logo-quartetris.jpg" height="80" alt="Quartetris" /></a>
 <a style="padding-right: 20px;" href="https://www.aseprite.org/"><img src="{{site.baseurl}}/images/logo-aseprite.png" height="60" alt="aseprite" /></a>
 
 </p>
