@@ -40,13 +40,14 @@ Acesse o [formulário de pré-inscrição](https://goo.gl/forms/p0980GRjt4Q7jytI
 
 **Dia 1**, 26/01 (sexta-feira)
 
-- **17:00**: credenciamento e abertura
+- **17:00**: credenciamento e abertura com o Quartetris (quarteto de cordas)
 - **18:00**: divulgação do tema
 - **18:30**: formação de grupos e definição dos projetos
 
 **Dia 2**, 27/01 (sábado)
 
 - **11:00**: prazo para criar a conta do usuário e a página do jogo
+- **16:00**: técnicas para alta perfomance - DeRose Method (Victor Cayres)
 - **18:00**--**19:00**: playtesting dos jogos
 <!-- - **19:00**--**20:00**: pizza! -->
 
@@ -122,6 +123,7 @@ Coordenação:
 <a style="padding-right: 20px;" href="http://studiovaz.com.br/"><img src="{{site.baseurl}}/images/logo-studiovaz.png" height="80" alt="Studio Vaz" /></a>
 <a style="padding-right: 20px;" href="https://www.youtube.com/watch?v=klSgyjiKaqU"><img src="{{site.baseurl}}/images/logo-quartetris.jpg" height="80" alt="Quartetris" /></a>
 <a style="padding-right: 20px;" href="https://www.aseprite.org/"><img src="{{site.baseurl}}/images/logo-aseprite.png" height="60" alt="aseprite" /></a>
+<a style="padding-right: 20px;" href="https://www.metododerose.org/"><img src="{{site.baseurl}}/images/logo-derose.png" height="90" alt="DeRose Method" /></a>
 
 </p>
 
