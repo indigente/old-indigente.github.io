@@ -47,7 +47,7 @@ Acesse o [formulário de pré-inscrição](https://goo.gl/forms/p0980GRjt4Q7jytI
 **Dia 2**, 27/01 (sábado)
 
 - **11:00**: prazo para criar a conta do usuário e a página do jogo
-- **16:00**: técnicas para alta perfomance - DeRose Method (Victor Cayres)
+- **16:00**: técnicas para alta performance - DeRose Method (Victor Cayres)
 - **18:00**--**19:00**: playtesting dos jogos
 <!-- - **19:00**--**20:00**: pizza! -->
 
