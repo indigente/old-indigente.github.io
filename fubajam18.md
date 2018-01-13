@@ -107,10 +107,14 @@ Coordenação:
 
 <p>
 <a style="padding-right: 20px;" href="http://indigente.ufba.br/"><img src="{{site.baseurl}}/images/logo-indigente.png" width="133" height="130" alt="Indigente" /></a>
-<a style="padding-right: 20px;" href="http://comunidadesvirtuais.pro.br/"><img src="{{site.baseurl}}/images/logo-comunidadesvirtuais.jpg" width="195" height="130" alt="Comunidades Virtuais" /></a>
+<a style="padding-right: 20px;" href="http://comunidadesvirtuais.pro.br/"><img src="{{site.baseurl}}/images/logo-comunidadesvirtuais.jpg" height="130" alt="Comunidades Virtuais" /></a>
+<a style="padding-right: 20px;" href="http://globalgamejam.org/"><img src="{{site.baseurl}}/images/logo-ggj.png" height="110" alt="Global Game Jam" /></a>
+</p>
+
+<p>
 <a style="padding-right: 20px;" href="http://www.dcc.ufba.br/"><img src="{{site.baseurl}}/images/logo-dcc.png" width="79" height="130" alt="Departamento de Ciência da Computação" /></a>
 <!-- <a style="padding-right: 20px;" href="http://www.im.ufba.br/"><img src="{{site.baseurl}}/images/logo-ime.gif" width="84" height="80" /></a> -->
-<a style="padding-right: 20px;" href="http://www.ihac.ufba.br/"><img src="{{site.baseurl}}/images/logo-ihac.jpg" width="130" height="130" alt="Instituto de Humanidades, Artes e Ciências" /></a>
+<a style="padding-right: 20px;" href="http://www.ihac.ufba.br/"><img src="{{site.baseurl}}/images/logo-ihac.png" height="80" alt="Instituto de Humanidades, Artes e Ciências" /></a>
 <a style="padding-right: 20px;" href="http://www.ufba.br/"><img src="{{site.baseurl}}/images/logo-ufba.png" width="84" height="130" alt="Universidade Federal da Bahia" /></a>
 </p>
 
@@ -119,11 +123,14 @@ Coordenação:
 <p>
 
 <a style="padding-right: 20px;" href="http://produtosmagrela.com.br/"><img src="{{site.baseurl}}/images/logo-magrela.png" height="100" alt="Produtos Magrela" /></a>
-<a style="padding-right: 20px;" href="http://escolabrasileiradegames.com.br/"><img src="{{site.baseurl}}/images/logo-escola-bras-games.png" height="100" alt="Escola Brasileira de Games" /></a>
-<a style="padding-right: 20px;" href="http://studiovaz.com.br/"><img src="{{site.baseurl}}/images/logo-studiovaz.png" height="80" alt="Studio Vaz" /></a>
-<a style="padding-right: 20px;" href="https://www.youtube.com/watch?v=klSgyjiKaqU"><img src="{{site.baseurl}}/images/logo-quartetris.jpg" height="80" alt="Quartetris" /></a>
 <a style="padding-right: 20px;" href="https://www.aseprite.org/"><img src="{{site.baseurl}}/images/logo-aseprite.png" height="60" alt="aseprite" /></a>
 <a style="padding-right: 20px;" href="https://www.metododerose.org/"><img src="{{site.baseurl}}/images/logo-derose.png" height="90" alt="DeRose Method" /></a>
+<a style="padding-right: 20px;" href="http://escolabrasileiradegames.com.br/"><img src="{{site.baseurl}}/images/logo-escola-bras-games.png" height="100" alt="Escola Brasileira de Games" /></a>
+</p>
+
+<p>
+<a style="padding-right: 20px;" href="http://studiovaz.com.br/"><img src="{{site.baseurl}}/images/logo-studiovaz.png" height="80" alt="Studio Vaz" /></a>
+<a style="padding-right: 20px;" href="https://www.youtube.com/watch?v=klSgyjiKaqU"><img src="{{site.baseurl}}/images/logo-quartetris.jpg" height="80" alt="Quartetris" /></a>
 
 </p>
 
