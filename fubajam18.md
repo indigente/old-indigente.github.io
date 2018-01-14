@@ -14,7 +14,7 @@ O **pré-evento FUBAjam**, com entrada franca, é uma tarde de **palestras** e *
 - **Horário**: 20/1 (sábado), das 14:00 às 18:00
 - **Local**: Auditório do PAF V, Campus de Ondina da UFBA
 
-**Palestras** (14:00--16:00):
+**Palestras** (14:00--16:00)
 
 - **Math Game: construção de um RPG para matemática**<br/>Grupo de pesquisa Nitre (IHAC/UFBA)
 - **Logos: crowdsourcing nas universidades para artes, cultura e inovação**<br/>Adriano Sampaio (FACOM/UFBA)
@@ -42,7 +42,7 @@ Venha jogar alguns jogos criados em *game jams* na UFBA e conhecer pessoas!
 - **11:00**: prazo para criar a conta do usuário e a página do jogo
 - **16:00**: técnicas para alta performance - DeRose Method (Victor Cayres)
 - **18:00**: playtesting dos jogos
-- 
+
 **Dia 3**, 28/01 (domingo)
 
 - **15:00**--**16:30**: prazo para enviar os jogos
