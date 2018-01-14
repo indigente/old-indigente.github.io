@@ -5,23 +5,60 @@ title: "FUBAjam18 (Global Game Jam) - 26 a 28 de janeiro"
 
 ![Logo da FUBAjam]({{site.baseurl}}/images/capa-face-fubajam-2018.png)
 
-A [Global Game Jam](http://globalgamejam.org/) (GGJ) é uma maratona de **criação de jogos em 48 horas** que ocorre simultaneamente em mais de 70 países. O evento reúne pessoas com distintas expertises interessadas no desenvolvimento de games, como programadores, designers, músicos e roteiristas, que são desafiadas a produzir um jogo durante um final de semana a partir de um **tema secreto** revelado no início do evento. Ao final do evento, no domingo, os jogos [são publicados no site da Global Game Jam](http://globalgamejam.org/games).
+A [Global Game Jam](http://globalgamejam.org/) (GGJ) é uma maratona na qual os participantes **criam jogos em 48 horas** a partir de um **tema secreto** revelado simultaneamente em mais de 70 países. A FUBAjam é a sede da Global Game Jam na UFBA. Em 2018 o evento ocorrerá de 26 a 28 de janeiro; uma semana antes, no dia 20 de janeiro, teremos um pré-evento aberto ao público.
 
-A ideia é desenvolver distintas habilidades, bem como promover práticas colaborativas, cooperativas e inventivas, motivando os participantes a experimentar novas técnicas e práticas, fortalecendo a indústria de games nos seus territórios.
+## <a name="pre-evento"></a>Programação do pré-evento, aberto ao público (20/1, sábado)
 
-A [UFBA](https://www.ufba.br/) sediou a Global Game Jam em Salvador em [2014](http://globalgamejam.org/2014/jam-sites/fubajam), [2015](http://globalgamejam.org/2015/jam-sites/global-bind-jam), [2016](http://globalgamejam.org/2016/jam-sites/global-bind-jam) e [2017](http://globalgamejam.org/2017/jam-sites/fubajam). Em 2018, a Global Game Jam será de **26 a 28 de janeiro**, e a [FUBAjam](http://globalgamejam.org/2018/jam-sites/fubajam) -- sede da Global Game Jam na UFBA -- será no campus de Ondina da UFBA, no PAF V (a confirmar).
+O **pré-evento FUBAjam**, com entrada franca, é uma tarde de **palestras** e **degustação de jogos** criados nas últimas *game jams* na UFBA. É uma ótima oportunidade de conhecer as pessoas que vão participar do evento e outros entusiastas dos jogos.
+
+- **Horário**: 20/1 (sábado), das 14:00 às 18:00
+- **Local**: Auditório do PAF V, Campus de Ondina da UFBA
+
+**Palestras** (14:00--16:00):
+
+- **Math Game: construção de um RPG para matemática**<br/>Grupo de pesquisa Nitre (IHAC/UFBA)
+- **Logos: crowdsourcing nas universidades para artes, cultura e inovação**<br/>Adriano Sampaio (FACOM/UFBA)
+- **Um olhar sobre a exposição “L' art dans le jeu vidéo”**<br/>Rico Soares (IHAC/UFBA)
+- **Jogos digitais e processos de formação**<br/>Lynn Alves (IHAC/UFBA)
+- **Como sobreviver a uma game jam?**<br/>Felipe Nunes e Igor Ferreira (DCC/UFBA)
+
+**Degustação de jogos** (16:00--18:00)
+
+Venha jogar alguns jogos criados em *game jams* na UFBA e conhecer pessoas!
+
+## <a name="programacao"></a>Programação do evento - 26 a 28/1
+
+**Dia 1**, 26/01 (sexta-feira)
+
+- **17:00**: credenciamento
+- **18:00**: abertura com o Quartetris (quarteto de cordas com repertório focado em músicas de jogos)
+- **18:30**: apresentação do evento e orientações gerais
+- **19:00**: divulgação do tema, formação de grupos e definição dos projetos
+
+**A abertura e a apresentação do evento serão abertas ao público; as demais atividades são restritas a participantes inscritos.**
+
+**Dia 2**, 27/01 (sábado)
+
+- **11:00**: prazo para criar a conta do usuário e a página do jogo
+- **16:00**: técnicas para alta performance - DeRose Method (Victor Cayres)
+- **18:00**: playtesting dos jogos
+- 
+**Dia 3**, 28/01 (domingo)
+
+- **15:00**--**16:30**: prazo para enviar os jogos
+- **16:30**: apresentações finais
 
 ## Local
 
-PAF V, campus de Ondina da UFBA, na Avenida Adhemar de Barros (A CONFIRMAR!).
+PAF V, campus de Ondina da UFBA, na Avenida Adhemar de Barros. [(ver mapa)](https://www.google.com.br/maps/place/PAF+V/@-13.0043228,-38.5122061,846m/data=!3m1!1e3!4m5!3m4!1s0x7160361bb2d1ecf:0x33f3bcc7b762f956!8m2!3d-13.0038453!4d-38.509495)
+
+![PAF V](https://www.ufba.br/sites/portal.ufba.br/files/PAF%205.JPG)
 
 ## Inscrições
 
-Acesse o [formulário de pré-inscrição](https://goo.gl/forms/p0980GRjt4Q7jytI2).
+Inscrições encerradas.
 
 ## Sobre a sede
-
-<!-- ![foto da sede]({{site.baseurl}}/images/fubajam-local.jpg) -->
 
 **Cada um deve trazer seu próprio computador**, pois não há computadores disponíveis para os participantes no local do evento.
 
@@ -36,25 +73,6 @@ Acesse o [formulário de pré-inscrição](https://goo.gl/forms/p0980GRjt4Q7jytI
   - Banheiros e vestiários com chuveiro
   - Rede Wi-Fi aberta em todo o local
 
-## Programação
-
-**Dia 1**, 26/01 (sexta-feira)
-
-- **17:00**: credenciamento e abertura com o Quartetris (quarteto de cordas)
-- **18:00**: divulgação do tema
-- **18:30**: formação de grupos e definição dos projetos
-
-**Dia 2**, 27/01 (sábado)
-
-- **11:00**: prazo para criar a conta do usuário e a página do jogo
-- **16:00**: técnicas para alta performance - DeRose Method (Victor Cayres)
-- **18:00**--**19:00**: playtesting dos jogos
-<!-- - **19:00**--**20:00**: pizza! -->
-
-**Dia 3**, 28/01 (domingo)
-
-- **15:00**--**16:30**: prazo para enviar os jogos
-- **16:30**: apresentações finais
 
 ## Orientações para os jammers
 
@@ -90,6 +108,14 @@ Acesse o [formulário de pré-inscrição](https://goo.gl/forms/p0980GRjt4Q7jytI
 
 - Padaria: 800 m.
 - Farmácia: 800 m.
+
+## Mais sobre o evento
+
+O evento reúne pessoas com distintas expertises interessadas no desenvolvimento de games, como programadores, designers, músicos e roteiristas, que são desafiadas a produzir um jogo durante um final de semana a partir de um **tema secreto** revelado no início do evento. Ao final do evento, no domingo, os jogos [são publicados no site da Global Game Jam](http://globalgamejam.org/games).
+
+A ideia é desenvolver distintas habilidades, bem como promover práticas colaborativas, cooperativas e inventivas, motivando os participantes a experimentar novas técnicas e práticas, fortalecendo a indústria de games nos seus territórios.
+
+A [UFBA](https://www.ufba.br/) sediou a Global Game Jam em Salvador em [2014](http://globalgamejam.org/2014/jam-sites/fubajam), [2015](http://globalgamejam.org/2015/jam-sites/global-bind-jam), [2016](http://globalgamejam.org/2016/jam-sites/global-bind-jam) e [2017](http://globalgamejam.org/2017/jam-sites/fubajam). Em 2018, a Global Game Jam será de **26 a 28 de janeiro**, e a [FUBAjam](http://globalgamejam.org/2018/jam-sites/fubajam) -- sede da Global Game Jam na UFBA -- será no campus de Ondina da UFBA, no PAF V.
 
 # Equipe
 
