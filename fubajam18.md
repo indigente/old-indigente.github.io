@@ -18,7 +18,6 @@ O **pré-evento FUBAjam**, com entrada franca, é uma tarde de **palestras** e *
 
 - **Math Game: construção de um RPG para matemática**<br/>Grupo de pesquisa Nitre (IHAC/UFBA)
 - **Logos: crowdsourcing nas universidades para artes, cultura e inovação**<br/>Adriano Sampaio (FACOM/UFBA)
-- **Um olhar sobre a exposição “L' art dans le jeu vidéo”**<br/>Rico Soares (IHAC/UFBA)
 - **Jogos digitais e processos de formação**<br/>Lynn Alves (IHAC/UFBA)
 - **Como sobreviver a uma game jam?**<br/>Felipe Nunes e Igor Ferreira (DCC/UFBA)
 
