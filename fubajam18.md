@@ -11,6 +11,8 @@ A [Global Game Jam](http://globalgamejam.org/) (GGJ) é uma maratona na qual os 
 
 Aberto ao público, o **pré-evento FUBAjam** é uma tarde de **palestras** e **degustação de jogos** criados em *game jams* na UFBA. É uma ótima oportunidade de conhecer as pessoas que vão participar do evento FUBAjam e outros entusiastas dos jogos. A entrada é gratuita!
 
+Confirme sua presença na [página do pré-evento no Facebook](https://www.facebook.com/events/1784659201569039/)!
+
 - **Horário**: 20/1 (sábado), das 14:00 às 18:00
 - **Local**: Auditório do PAF V, Campus de Ondina da UFBA
 
