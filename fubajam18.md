@@ -32,6 +32,7 @@ Venha jogar alguns jogos criados em *game jams* na UFBA e conhecer pessoas!
 **Dia 1**, 26/01 (sexta-feira)
 
 - **17:00**: credenciamento
+- **17:30**: palestra "Mercado de games: trabalhando como artista de personagens no cenário exterior" ([Salvador Gomes](https://www.artstation.com/salgomes)).
 - **18:00**: abertura com o Quartetris (quarteto de cordas com repertório focado em músicas de jogos)
 - **18:30**: apresentação do evento e orientações gerais
 - **19:00**: divulgação do tema, formação de grupos e definição dos projetos
