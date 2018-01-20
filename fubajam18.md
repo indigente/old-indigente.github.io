@@ -25,7 +25,7 @@ Confirme sua presença na [página do pré-evento no Facebook](https://www.faceb
 
 **Degustação de jogos** (16:00--18:00)
 
-Venha jogar alguns jogos criados em *game jams* na UFBA e conhecer pessoas!
+Venha jogar alguns [jogos criados em *game jams* na UFBA](https://docs.google.com/presentation/d/15IoMyYzjFvSprE8mvuA1i-4DnIYGx93oRgycpUA3sGE/edit?usp=sharing) e conhecer pessoas!
 
 ## <a name="programacao"></a>Programação do evento - 26 a 28/1
 
