@@ -14,8 +14,8 @@ Confirme sua presença na [página do pré-evento no Facebook](https://www.faceb
 
 - **Math Game: construção de um RPG para matemática**<br/>Grupo de pesquisa Nitre (IHAC/UFBA)
 - **Logos: crowdsourcing nas universidades para artes, cultura e inovação**<br/>Adriano Sampaio (FACOM/UFBA)
-- **Jogos digitais e processos de formação**<br/>Lynn Alves (IHAC/UFBA)
-- **Como sobreviver a uma game jam?**<br/>Felipe Nunes e Igor Ferreira (DCC/UFBA)
+- **[Jogos digitais e processos de formação]({{site.baseurl}}/fj18-lynn.pdf)**<br/>Lynn Alves (IHAC/UFBA)
+- **[Como sobreviver a uma game jam?]({{site.baseurl}}/fj18-sobrevivendo-a-ggj.pdf)**<br/>Felipe Nunes e Igor Ferreira (DCC/UFBA)
 
 **Degustação de jogos** (16:00--18:00)
 
