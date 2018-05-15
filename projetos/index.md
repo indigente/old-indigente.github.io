@@ -6,12 +6,11 @@ permalink: /projetos/
 
 Projetos em andamento:
 
-- [Maquete virtual dos campi UFBA](maquete-ufba) (2016–)
-
 <!-- - MineUFBA -->
 
 Projetos finalizados:
 
+- [Maquete virtual dos campi UFBA](maquete-ufba)
 - [Teste de arrumação do armário](taa)
 - [InGE: Indigente Game Engine](inge)
 - [We Are The Champignons (WATC)](watc)
