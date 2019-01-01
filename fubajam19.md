@@ -9,7 +9,7 @@ A [Global Game Jam](http://globalgamejam.org/) (GGJ) é uma maratona na qual os 
 
 ### Inscrições
 
-Em breve.
+[Clique aqui para se inscrever](https://goo.gl/forms/PvtD1XuqSNFAEA7c2).
 
 ### Programação
 
