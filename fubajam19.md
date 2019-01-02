@@ -3,7 +3,7 @@ layout: page
 title: "FUBAjam19 (Global Game Jam) - 25 a 27 de janeiro"
 ---
 
-<!-- ![Logo da FUBAjam]({{site.baseurl}}/images/capa-face-fubajam-2019.png) -->
+![Logo da FUBAjam]({{site.baseurl}}/images/fubajam19-capa.jpg) 
 
 A [Global Game Jam](http://globalgamejam.org/) (GGJ) é uma maratona na qual os participantes **criam jogos em 48 horas** a partir de um **tema secreto** revelado simultaneamente em mais de 70 países. A FUBAjam é a sede da Global Game Jam na UFBA. Em 2019 o evento ocorrerá de 25 a 27 de janeiro.
 
