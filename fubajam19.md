@@ -17,11 +17,11 @@ Esta programação é provisória e pode sofrer alterações até o dia do event
 
 **Dia 1**, 25/01 (sexta-feira)
 
--**16:00**: Abertura e Credenciamento
--**16:30**: Bate-papo e palestra com o artista e ilustrador Tiago Pinheiro
--**17:30**: Bate-papo e palestra sobre produção de áudio para games com o compositor Tharcísio Vaz
--**18:30**: Bate-papo e palestra sobre o que esperar de uma Global Game Jam com os programadores João Felipe e José Roberto
--**19:00**: divulgação do tema, formação de grupos e definição dos projetos
+- **16:00**: Abertura e Credenciamento
+- **16:30**: Bate-papo e palestra com o artista e ilustrador Tiago Pinheiro
+- **17:30**: Bate-papo e palestra sobre produção de áudio para games com o compositor Tharcísio Vaz
+- **18:30**: Bate-papo e palestra sobre o que esperar de uma Global Game Jam com os programadores João Felipe e José Roberto
+- **19:00**: divulgação do tema, formação de grupos e definição dos projetos
 
 **Dia 2**, 26/01 (sábado)
 
