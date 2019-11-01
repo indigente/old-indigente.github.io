@@ -1,3 +1,8 @@
+- title: 'Geoblocks: geração de mundos virtuais baseados em blocos a partir de informações geográficas'
+  authors: "Pedro Pontes, Rodrigo Souza"
+  year: 2019
+  abstract: "Jogos como o Minecraft têm despertado o interesse de pessoas que querem construir mundos virtuais que reproduzem locais do mundo real. Construir esses mundos manualmente, bloco a bloco, requer muito esforço e tempo. Neste trabalho propomos o Geoblocks, um processo e um conjunto de ferramentas que permite construir mundos virtuais baseados em blocos a partir de informações geográficas. O processo foi aplicado com sucesso para reproduzir o campus de Universidade Federal da Bahia (UFBA) no jogo Minetest."
+  event: "SBGames"
 - title: 'Ludum, uma composição "jogo" - Técnicas de Áudio Dinâmico para Games aplicadas em outro contexto'
   authors: "Tharcísio Vaz Moraes"
   year: 2015
