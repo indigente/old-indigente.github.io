@@ -6,6 +6,8 @@ permalink: /
 
 # Apresentação
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2XMmvbI6ie8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Indigente (Interactive Digital Entertainment) é um grupo de pesquisa e desenvolvimento de jogos sediado na UFBA que tem como principais objetivos (1) realizar pesquisa básica para a criação de algoritmos, técnicas e ferramentas que apoiem o desenvolvimento de jogos 3D, (2) desenvolver jogos eletrônicos e (3) fomentar o interesse da comunidade acadêmica baiana para a área de jogos eletrônicos.
 
 Os principais resultados do grupo são: premiação em festival de jogos independentes (2° lugar no SBGames de 2004 e 3° lugar no SBGames de 2006), desenvolvimento de motor de jogos 3D, além de artigos, pôsteres e demonstrações em diversos eventos científicos e de extensão. O grupo pretende trabalhar para se tornar uma referência no desenvolvimento de jogos na Bahia e, quiçá, no Brasil, abordando o tema sob as perspectivas de pesquisa científica e inovação tecnológica, envolvendo diversas sub-áreas da Computação e interagindo com outras áreas do conhecimento (Física, Matemática e Educação, por exemplo).
